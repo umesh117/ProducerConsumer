@@ -1,6 +1,9 @@
 # ProducerConsumer
 Producer consumer problem
 
+# Prerequisite
+- Java 17
+
 ## How to build
 
 ### 1. Build steps
